@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "year": "2026 - JAN",
+    "title": "Our First Meeting",
+    "description": "Before your cousin's interview started, we met through mutual friends. What began as a simple introduction slowly became the start of a meaningful friendship.",
+    "icon": "🤝"
+  },
+  {
+    "id": 2,
+    "year": "2026 - JAN",
+    "title": "The Interview Day",
+    "description": "We worked together to help your cousin prepare for the interview. Sharing ideas and supporting each other made that day memorable.",
+    "icon": "💼"
+  },
+  {
+    "id": 3,
+    "year": "2026 - FEB",
+    "title": "Staying Connected",
+    "description": "After the interview, we continued talking and getting to know each other better through regular conversations.",
+    "icon": "✨"
+  },
+  {
+    "id": 4,
+    "year": "2026 - MAR",
+    "title": "Instagram Friends",
+    "description": "We followed each other on Instagram and started sharing reels, memes, and little moments from our daily lives.",
+    "icon": "📸"
+  },
+  {
+    "id": 5,
+    "year": "2026 - APR TO SEP",
+    "title": "Best Friends Era",
+    "description": "What started as a simple friendship grew stronger day by day. Through endless chats, shared reels, laughter, support, and unforgettable memories, we became best friends.",
+    "icon": "💛"
+  }
+]

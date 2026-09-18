@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "question": "Where did we first meet?",
+    "options": ["At school", "Through mutual friends", "Online", "At work"],
+    "answerIndex": 1
+  },
+  {
+    "id": 2,
+    "question": "What's our favorite thing to do together?",
+    "options": ["Talk for hours", "Watch movies", "Travel", "All of the above"],
+    "answerIndex": 3
+  },
+  {
+    "id": 3,
+    "question": "What year did our friendship begin?",
+    "options": ["2016", "2018", "2020", "2022"],
+    "answerIndex": 1
+  },
+  {
+    "id": 4,
+    "question": "What always makes us laugh?",
+    "options": ["Our inside jokes", "Bad puns", "Old photos", "All of it"],
+    "answerIndex": 3
+  },
+  {
+    "id": 5,
+    "question": "What's the one word that describes our friendship?",
+    "options": ["Unbreakable", "Complicated", "New", "Distant"],
+    "answerIndex": 0
+  }
+]

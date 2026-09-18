@@ -1,0 +1,8 @@
+[
+  { "id": 1, "title": "Loyal", "icon": "🛡️", "detail": "You've stood by me through every storm without ever asking for anything back." },
+  { "id": 2, "title": "Funny", "icon": "😂", "detail": "You have this rare talent of turning the dullest moment into something hilarious." },
+  { "id": 3, "title": "Kind", "icon": "💖", "detail": "Your kindness is the quiet kind — the kind that shows up when no one's watching." },
+  { "id": 4, "title": "Honest", "icon": "🗣️", "detail": "You tell me the truth even when it's hard, and that's rare and precious." },
+  { "id": 5, "title": "Supportive", "icon": "🤝", "detail": "Every dream I've chased, you've cheered louder than anyone else." },
+  { "id": 6, "title": "Genuine", "icon": "🌟", "detail": "There's not a fake bone in your body — what you see is exactly what you get." }
+]

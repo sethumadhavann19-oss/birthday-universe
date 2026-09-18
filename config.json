@@ -1,0 +1,15 @@
+{
+  "friendName": "Sinchana",
+  "yourName": "Your Best Friend",
+  "birthdayDate": "2026-09-21",
+  "themeColor": "#ff6b9d",
+  "accentColor": "#ffd93d",
+  "welcomeTagline": "A special surprise for a special friend.",
+  "finalMessage": "Thank you for being an amazing friend. Wishing you happiness, success, peace, and countless beautiful memories. Happy Birthday!",
+  "greetingCardNote": "Dear Sinchana, every memory with you is a treasure. Here's to another year of laughter, adventures, and friendship. Happy Birthday!",
+  "musicEnabledByDefault": false,
+  "playlist": [
+    { "title": "Birthday Vibes", "src": "/music/track1.mp3" },
+    { "title": "Celebration Time", "src": "/music/track2.mp3" }
+  ]
+}
